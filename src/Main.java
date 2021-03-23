@@ -182,7 +182,7 @@ public class Main
             //Shows authors properties
             else if (select.equals("7"))
             {
-                System.out.println("180315016, Deyan Bora Çetin");
+                System.out.println("StudentID, Name");
             }
             //outside of 0-7 selections
             else
